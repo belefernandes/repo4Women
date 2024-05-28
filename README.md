@@ -1,2 +1,2 @@
 # repo4Women
-Pepositório para mentoria de GitHub
+Repositório para mentoria de GitHub
